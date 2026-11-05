@@ -1,0 +1,26 @@
+.icono-lunli{
+    width: 70px;
+    height: auto;
+}
+
+.body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.portadilla {
+    font-size:23px ;
+    font-weight: 600;
+    color: gray;
+}
+
+.perfil{
+    width: 350px;
+    height: auto;
+}
+
+.btn-lunali{
+    background-color: rgb(168, 134, 199);
+}
